@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="left">:wave: Hi there! I'm Alexandr Vernigorov</h1>
 
 <!--
 **DunkaL/DunkaL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
