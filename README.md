@@ -1,5 +1,5 @@
 <h1 align="left">:wave: Hi there! I'm Alexandr Vernigorov</h1>
-
+<h2>HTML, CSS, JavaScript, TypeScript, React, Redux, Tailwind CSS <br/> Open to Work.</h2>
 <!--
 **DunkaL/DunkaL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
